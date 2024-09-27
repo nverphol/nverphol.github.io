@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nverphol.github.io/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/app/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/assets/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/css/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/data/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/includes/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/item/sitemap.nverphol.gz
+Sitemap: https://nverphol.github.io/src/sitemap.nverphol.gz
